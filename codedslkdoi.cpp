@@ -1,8 +1,4 @@
-/*
--Tran Minh Tien
--21010611
--Cau da lam: 1,2,3,4,5,6,7,8,9,10,11,12 C�N 13 em chua lam
-*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
